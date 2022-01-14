@@ -1,9 +1,5 @@
 ## Install Instruction
 
-### `Login Credentials  `
-email: admin@demo.com<br/>
-password: 12345678<br/> 
-
 ### `Front-End setup`
 
 Clone or download the project<br/>
